@@ -1,2 +1,2 @@
-version=1.0.2
-url=https://github.com/myhunio/Sims4CacheCleaner/releases/download/v1.0.2/Sims_Cache_Cleaner.exe
+version=1.0.3
+url=https://github.com/myhunio/Sims4CacheCleaner/releases/download/v1.0.3/Sims_Cache_Cleaner.exe
